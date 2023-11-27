@@ -23,7 +23,7 @@
   "fs": "^0.0.1-security",
   "fs-extra": "^11.1.0",
   "gekko-broker": "file:exchange",
-  "humanize-duration": "^3.30.0",
+  "humanize-duration": "^3.31.0",
   "koa": "^2.14.2",
   "koa-bodyparser": "^4.4.1",
   "koa-cors": "0.0.16",
